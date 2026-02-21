@@ -1,55 +1,87 @@
 <div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJiOTBza2Vva2hjaHRrNzNoajc4Yjkzc2w3dG4zNjc4dXZleW9yciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QlLONQNH9CA9nBdzSM/giphy.gif"  />
+
+# 💫 About Me
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45F7B2&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Poovee;A+Computer+Engineering+Student.;Passionate+about+IoT+%26+Networking.;Welcome+to+my+digital+space! 🚀" alt="Typing SVG" />
+
+<p align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V6NDZ2c2lnb3hzZm9pZW81aDEyaWV0eWJidnNjNXZ4Z3o5YmNtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HDL1mcuq9tawB5zL6h/giphy.gif" alt="Coding GIF" />
+</p>
+
+---
+
+### 📬 Connect with me:
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/67991020-byte) 
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your-email@example.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/your-profile)
+
 </div>
 
-# Hello!!! I'am poovee charoenphaisantrakun
-Welcome to my readme.<br />
-###
+## 📑 Profile Overview
 
-</details>
-<details> 
-  <summary><h2> 📑About me</h2></summary>
+```yaml
+student:
+  name: Poovee Charoenphaisantrakun
+  major: Computer Engineering (C2R1 - Year 2)
+  focus: [Network Engineering, Server Management, IoT]
+  hobbies: [Novel/Comic Reading, Board Games]
+```
+
+- 🔭 **I’m currently working on:** Advanced IoT systems and Verilog designs.
+- 🌱 **I’m currently learning:** Deep diving into **Python**, **Networking protocols**, and **C++**.
+- 🥅 **2025 Goal:** Master server-side architecture and network security.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 💻 Languages & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+### 📟 Digital Logic & IoT
+<p align="left">
+  <img src="https://img.shields.io/badge/Verilog-3B4CC0?style=for-the-badge&logo=circuitverse&logoColor=white" />
+  <img src="https://img.shields.io/badge/MicroPython-762fbd?style=for-the-badge&logo=micropython&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blynk-24E0D0?style=for-the-badge&logo=blynk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+</p>
+
+### 🌐 Infrastructure & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 📊 Stats & Activity
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=67991020-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   
+  <br/>
 
-## Class / Major
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=67991020-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-Major:Computer engineering <br />
-Class:C2R1(Y2) <br/>
+  <br/>
 
-## Interests / Hobbies
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=67991020-byte&bg_color=1F222E&color=66f8d8&line=59e9fa&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 
--Interests:interesting at the network and server engineer <br />
--Hobbies:Read the novel/comic and play board games
+</div>
 
-</details>
-</details>
-<details> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
+---
 
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=67991020-byte&show_icons=true&theme=gotham" alt="67991020-byte" />
- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="67991020-byte's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=67991020-byte&bg_color=1F222E&color=66f8d8&line=59e9fa&point=FFFFFF&hide_border=true" /></a>
-  </p>
-
-</details>
-</details>
-
-<details> 
-  <summary><h2>🌠   My skills</h2></summary>
-
-## My skill and language 
--i can make IoT project 📠<br/>
--i can make mini Python project 👨‍💻<br/>
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://tse3.mm.bing.net/th/id/OIP.Mci3SDy9knlbIOLm3LHeLAAAAA?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" alt="micropython"></code>
-<code><img height="27" src="https://store.kidbright.info/upload/cover-image/1595158904-oAsZux.png" alt="blynk "></code>
-
-## Skills that I going to study now
--Python 👨‍💻<br />
--net work 🌐<br />
--C++ 👨‍💻<br />
-</details>
+<p align="center">
+  <i>"Network is the backbone, Server is the heart, and IoT is the nervous system."</i>  
+  <br/>
+  ⭐ From <b>@67991020-byte</b>
+</p>
