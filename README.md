@@ -2,6 +2,8 @@
 
 # 💫 About Me
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45F7B2&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Poovee;A+Computer+Engineering+Student.;Passionate+about+IoT+%26+Networking.;Welcome+to+my+digital+space! 🚀" alt="Typing SVG" />
+
 <p align="center">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V6NDZ2c2lnb3hzZm9pZW81aDEyaWV0eWJidnNjNXZ4Z3o5YmNtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HDL1mcuq9tawB5zL6h/giphy.gif" alt="Coding GIF" />
 </p>
@@ -10,8 +12,8 @@
 
 ### 📬 Connect with me:
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/67991020-byte) 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:poovee.cha@gmail.com)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/ภูวีร์-เจริญไพศาลตระกูล-b847933b2/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your-email@example.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/your-profile)
 
 </div>
 
@@ -20,8 +22,8 @@
 ```yaml
 student:
   name: Poovee Charoenphaisantrakun
-  major: Computer Engineering (C2R1 - Year 2)
-  focus: [Network Engineering, Server Management, IoT]
+  major: Computer Engineering (C3R1 - Year 3)
+  focus: [Network Engineering, Automation, IoT]
   hobbies: [Novel/Comic Reading, Board Games]
 ```
 
@@ -53,6 +55,11 @@ student:
   <img src="https://img.shields.io/badge/Wokwi-4DB33D?style=for-the-badge&logo=wokwi&logoColor=white" />
 </p>
 
+### 🏗️ Development Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
 ### 🌐 Infrastructure & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -67,12 +74,7 @@ student:
 
 <div align="center">
 
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=67991020-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-  <br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=67991020-byte&bg_color=1F222E&color=66f8d8&line=59e9fa&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+  ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=67991020-byte&theme=github-compact)
 
 </div>
 
