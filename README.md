@@ -49,6 +49,8 @@ student:
   <img src="https://img.shields.io/badge/Blynk-24E0D0?style=for-the-badge&logo=blynk&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/PlatformIO-EE6022?style=for-the-badge&logo=platformio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wokwi-4DB33D?style=for-the-badge&logo=wokwi&logoColor=white" />
 </p>
 
 ### 🌐 Infrastructure & Tools
@@ -56,6 +58,7 @@ student:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=mqtt&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 ---
