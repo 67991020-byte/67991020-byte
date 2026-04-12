@@ -2,8 +2,6 @@
 
 # 💫 About Me
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45F7B2&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Poovee;A+Computer+Engineering+Student.;Passionate+about+IoT+%26+Networking.;Welcome+to+my+digital+space! 🚀" alt="Typing SVG" />
-
 <p align="center">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V6NDZ2c2lnb3hzZm9pZW81aDEyaWV0eWJidnNjNXZ4Z3o5YmNtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HDL1mcuq9tawB5zL6h/giphy.gif" alt="Coding GIF" />
 </p>
