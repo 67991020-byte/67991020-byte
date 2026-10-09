@@ -4,6 +4,12 @@
 
 ### Poovee Charoenphaisantrakun
 
+<p align="center">
+  <a href="https://giphy.com/gifs/spike-mrbeast-mr-beast-sGrKpvsskUUhmd5Z1d">
+    <img src="https://media.giphy.com/media/sGrKpvsskUUhmd5Z1d/giphy.gif" alt="MrBeast GIF from GIPHY" width="360" />
+  </a>
+</p>
+
 **Computer Engineering · Networks · Automation · IoT**
 
 Connecting software, hardware, and the systems in between.
